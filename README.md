@@ -1,2 +1,2 @@
 # first_python_code
-Testing
+project pertama dengan python
